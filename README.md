@@ -1,2 +1,2 @@
-# redes-server
+# redis-server
 Redis Server Docker
